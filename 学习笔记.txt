@@ -1,0 +1,7 @@
+1.bag of words是什么
+2.pixelCNN（pixelCN++）和pixelRNN
+3.VAE（autoencoder）输入：图像   输出：特征
+4.数据量太小很容易造成过拟合从而不能训练一个很好的模型
+5.
+
+
